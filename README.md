@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working on:Windows 3 Subsystem
-Currently learning:C/C++
+- Currently working on:Windows 3 Subsystem
 
-Fun facts: - I am also known as coolC
+- Currently learning:C/C++
+
+- Fun facts: - I am also known as coolC
            - I am dumb
