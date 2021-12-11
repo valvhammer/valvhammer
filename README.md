@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - Currently learning:C/C++
 
 - Fun facts: - I am also known as coolC
-           - I am dumb
+
+             - I am dumb
+
+- 📫 How to reach me: not yet
