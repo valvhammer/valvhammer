@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on:Windows 3 Subsystem
+- Currently working on:coolunix
 
 - Currently learning:C/C++
-
-- Fun facts: - I am also known as coolC
-
-             - I am dumb
-
 - 📫 How to reach me: not yet
