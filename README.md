@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently working on:coolunix
-
+- I'm hammer, aka coolC
 - Currently learning:C/C++
 - 📫 How to reach me: not yet
