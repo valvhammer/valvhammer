@@ -1,4 +1,4 @@
-### Hammer
+### ValvHammer
 
 <!--
 **AnonimFan/AnonimFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm hammer, aka coolC
-- Currently learning:C/C++
-- 📫 How to reach me: not yet
+- msts activity creator
+- i also make C/C++ programs once in a while
+- how to reach me: discord: GamerHammer2K4F647Ultimate#6567; email: mailto:paprikaskurmpli122@gmail.com
