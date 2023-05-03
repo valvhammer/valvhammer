@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - msts activity creator
+- fun fact: i am dumb
 - i also make C/C++ programs once in a while
-- how to reach me: discord: GamerHammer2K4F647Ultimate#6567; email: mailto:paprikaskurmpli122@gmail.com
+- how to reach me: discord: GamerHammer2K4F647Ultimate#4547; email: mailto:paprikaskurmpli122@gmail.com
