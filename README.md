@@ -1,4 +1,4 @@
-### ValvHammer
+=### ValvHammer
 
 <!--
 **AnonimFan/AnonimFan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- msts activity creator
-- fun fact: i am dumb
-- i also make C/C++ programs once in a while
+- VM-15 my beloved 🚂
+- shit java dev who knows some C
+- dumb dumb 😱😱😨
 - how to reach me: discord: GamerHammer2K4F647Ultimate#4547; email: mailto:paprikaskurmpli122@gmail.com
