@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- VM-15 my beloved 🚂
+- VM-15 my beloved 🚂 (the locomotive)
 - shit java dev who knows some C
 - dumb dumb 😱😱😨
 - how to reach me: discord: GamerHammer2K4F647Ultimate#4547; email: mailto:paprikaskurmpli122@gmail.com
