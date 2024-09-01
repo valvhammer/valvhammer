@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- VM-15 my beloved 🚂 (the locomotive)
-- shit java dev who knows some C
-- dumb dumb 😱😱😨
-- how to reach me: discord: hmar_
+- trying to figure out C#, C/C++, and OpenGL
+- how to reach me: hmar_ on discord
