@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- trying to figure out C#, C/C++, and OpenGL
-- professional "running X11 apps on windows" champion 
-- how to reach me: hmar_ on discord
+- like ducks
+- hate c++ but still use it
+- trying to figure out opengl
+
+gato (insert img)
