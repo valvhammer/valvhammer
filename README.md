@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- like ducks
+- like ducks 🦆
 - hate c++ but still use it
 - trying to figure out opengl
+- am hungariam
 
-gato (insert img)
+- hmar_ on discord
+
+
