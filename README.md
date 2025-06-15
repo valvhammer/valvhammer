@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- like ducks 🦆
-- hate c++ but still use it
-- trying to figure out opengl
-- am hungariam
-
-- hmar_ on discord
+absolute dumbass
 
 
